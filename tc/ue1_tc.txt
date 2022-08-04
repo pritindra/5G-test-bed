@@ -1,0 +1,15 @@
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec  2.45 MBytes  20.5 Mbits/sec   66   25.0 KBytes       
+[  5]   1.00-2.00   sec  1.25 MBytes  10.5 Mbits/sec   76   3.95 KBytes       
+[  5]   2.00-3.00   sec  1.38 MBytes  11.5 Mbits/sec   90   1.32 KBytes       
+[  5]   3.00-4.00   sec  1.25 MBytes  10.5 Mbits/sec   89   39.5 KBytes       
+[  5]   4.00-5.00   sec  1.00 MBytes  8.39 Mbits/sec   94   2.63 KBytes       
+[  5]   5.00-6.00   sec  1.38 MBytes  11.5 Mbits/sec  113   2.63 KBytes       
+[  5]   6.00-7.00   sec  1.25 MBytes  10.5 Mbits/sec   88   38.2 KBytes       
+[  5]   7.00-8.00   sec  1.00 MBytes  8.39 Mbits/sec   79   3.95 KBytes       
+[  5]   8.00-9.01   sec  1.25 MBytes  10.4 Mbits/sec  103   1.32 KBytes       
+[  5]   9.01-10.00  sec  1.38 MBytes  11.6 Mbits/sec   84   7.90 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  13.6 MBytes  11.4 Mbits/sec  882             sender
+[  5]   0.00-10.00  sec  13.2 MBytes  11.1 Mbits/sec                  receiver
